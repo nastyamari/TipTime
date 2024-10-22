@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApplicationCompose</string>
+    <string name="calculate_tip">Подсчет чаевых</string>
+
+    <string name="bill_amount">Сумма счета</string>
+
+    <string name="tip_amount">Сумма чаевых: </string>
+
+</resources>
